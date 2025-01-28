@@ -1,0 +1,35 @@
+.firstSection{
+    background-color: #208176;
+    height: 93vh;
+}
+.textContent h1{
+
+line-height: 6rem;
+}
+.textContent h1 span{
+text-decoration: underline;
+text-decoration-color: black;
+text-decoration-thickness: 1rem;
+}
+.textContentSubtitle h1{
+    text-align: justify;
+    line-height: 2rem;
+}
+
+.containerCard{
+    border-radius: 10rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.411), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 10rem;
+    width: 10rem;
+}
+.containerCard h2{
+   font-size: 1.1rem;
+}
+.section5{
+    padding: 2rem;
+}
+.section5 h2{
+    color: #208176;
+    font-weight: 700;
+    font-size: 4rem;
+}
